@@ -1,6 +1,7 @@
 # aot
 
 [![Go Reference](https://pkg.go.dev/badge/go.verytable.online/aot.svg)](https://pkg.go.dev/go.verytable.online/aot)
+[![Go Report Card](https://goreportcard.com/badge/go.verytable.online/aot)](https://goreportcard.com/report/go.verytable.online/aot)
 
 Go vanity import test project.
 
