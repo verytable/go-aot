@@ -1,4 +1,4 @@
-module go.verytable.online/aot
+module go.verytable.online/aot/aot/go
 
 go 1.19
 
